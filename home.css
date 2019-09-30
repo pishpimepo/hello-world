@@ -1,0 +1,47 @@
+<!-- Mac: CMD + / -->
+ 
+<!-- declares html version for browser
+                <!DOCTYPE html>
+ 
+<1-- root element -->
+<html>
+    <!-- meta info about page -->
+    <head>
+                <! -- link elements do not need a closing tag -->
+        <link rel="stylesheet" type="text/css" href="../styles/home.css" >
+ 
+        <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap" rel="stylesheet">
+        
+        <title>Sandra Case</title>
+    </head>
+    
+    <!-- page content -->
+    <body>
+ 
+                <! -- divs are generic container -->
+        <div>              
+                        <h1> Sandra Case </h1>
+                        <!-- <h2> Sandra Case </h2> -->
+                        <p>
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                            <! -- br is a void element, it's opened and closed in the same tag -->
+                            <br/>
+                            <br/> 
+                            <br/>
+                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        </p>
+                        <! -- anchor elements link to their href attribute's value --> 
+                        
+                        <a target="_blank" href="https://soundcloud.com">
+                            SoundCloud
+                        </a>
+                        <a target="_blank" href="https://www.linkedin.com">
+                            LinkedIn
+                        </a>
+                        <a target="_blank" href="https://www.instagram.com">
+                            Instagram
+                        </a>
+        <div>                              
+    </body>
+ 
+</html> 
